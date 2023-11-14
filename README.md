@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm AMOS QUAIDOO</h1>
 <h2 align="left">Data scientist</h2>
 
-- 📫 How to reach me **amosquaidoo@gmail.com**
+<h3>- 📫 How to reach me **amosquaidoo@gmail.com**</h3>
 <h3>Technical Skills</h3>  
 <p>• Programming Language: Python, SQL</p>
 <p>• Data Analysis: Microsoft Excel, Power BI, Jupyter Notebook, KNIME,</p>
