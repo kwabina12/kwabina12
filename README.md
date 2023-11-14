@@ -4,11 +4,11 @@
 - 📫 How to reach me **amosquaidoo@gmail.com**
 <h3>Technical Skills</h3>  
 <p>• Programming Language: Python, SQL</p>
-• Data Analysis: Microsoft Excel, Power BI, Jupyter Notebook, KNIME,
-• Machine Learning: Scikit-learn, Amazon Machine Learning, Tensorflow 
-• Natural Language Processing: NLTK (Natural Language Toolkit), spaCy, Transformers
-• Web Scraping: Selenium, Beautiful Soup 
-• Cloud Engineering: Amazon Web Service 
+<p>• Data Analysis: Microsoft Excel, Power BI, Jupyter Notebook, KNIME,</p>
+<p>• Machine Learning: Scikit-learn, Amazon Machine Learning, Tensorflow </p>
+<p>• Natural Language Processing: NLTK (Natural Language Toolkit), spaCy, Transformers</p>
+<p>• Web Scraping: Selenium, Beautiful Soup </p>
+<p>• Cloud Engineering: Amazon Web Service </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
