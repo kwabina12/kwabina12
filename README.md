@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm AMOS QUAIDOO</h1>
-<h3 align="center">Data scientist</h3>
+<h2 align="center">Data scientist</h2>
 
 - 📫 How to reach me **amosquaidoo@gmail.com**
 -  Technical Skills
