@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm AMOS QUAIDOO</h1>
 <h2 align="left">Data scientist</h2>
+<p>As a passionate technology enthusiast, I specialize in leveraging data to drive decisions and solve real-world problems. My expertise lies in predictive modeling, machine learning, statistical analysis, and data visualization, enabling me to contribute to data-driven decision-making and develop innovative solutions that address complex challenges.</p>
 
 <h3>- 📫 How to reach me **amosquaidoo@gmail.com**</h3>
 <h3>Technical Skills</h3>  
