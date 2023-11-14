@@ -2,7 +2,7 @@
 <h2 align="left">Data scientist</h2>
 
 - 📫 How to reach me **amosquaidoo@gmail.com**
--  Technical Skills
+<h3>Technical Skills</h3>  
 • Programming Language: Python, SQL
 • Data Analysis: Microsoft Excel, Power BI, Jupyter Notebook, KNIME,
 • Machine Learning: Scikit-learn, Amazon Machine Learning, Tensorflow 
