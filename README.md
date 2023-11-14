@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm AMOS QUAIDOO</h1>
-<h3 align="center">Am into Data Science</h3>
+<h1 align="left">Hi 👋, I'm AMOS QUAIDOO</h1>
+<h3 align="center">Data scientist</h3>
 
 - 📫 How to reach me **amosquaidoo@gmail.com**
+-  Technical Skills
+• Programming Language: Python, SQL
+• Data Analysis: Microsoft Excel, Power BI, Jupyter Notebook, KNIME,
+• Machine Learning: Scikit-learn, Amazon Machine Learning, Tensorflow 
+• Natural Language Processing: NLTK (Natural Language Toolkit), spaCy, Transformers
+• Web Scraping: Selenium, Beautiful Soup 
+• Cloud Engineering: Amazon Web Service 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
